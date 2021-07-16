@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/discover"
+        android:icon="@drawable/find"
+        android:title="@string/discover" />
+    <item
+        android:id="@+id/fav"
+        android:icon="@drawable/favorite"
+        android:title="@string/fav" />
+
+
+    <item
+        android:id="@+id/event"
+        android:icon="@drawable/event"
+        android:title="@string/event" />
+    <item
+        android:id="@+id/sell"
+        android:icon="@drawable/monetization"
+        android:title="@string/sell" />
+    <item
+        android:id="@+id/noti"
+        android:icon="@drawable/notifications"
+        android:title="@string/noti" />
+    <item
+        android:id="@+id/upload"
+        android:icon="@drawable/upload"
+        android:title="@string/upload" />
+
+</menu>

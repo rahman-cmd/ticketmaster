@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ticketmaster</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="facebook_page">Facebook Page</string>
+    <string name="instagram">Instagram Page</string>
+    <string name="communication">Communication</string>
+    <string name="discover">Discover</string>
+    <string name="fav">Favorites</string>
+    <string name="event">My Events</string>
+    <string name="sell">Sell</string>
+    <string name="noti">Notifications</string>
+    <string name="upload">Upload</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
